@@ -4,7 +4,7 @@ MaJia Construction Site (Gas Station) Dataset  玛珈工地(加油站)物品数�
 ## 简介/INTRODUCTION
 MJCSD数据集是为了让模型能够解决真实生产环境下面临的工地施工安全自动化监控问题，而创建了一个来自于真实生产环境下的工地安全数据集。其中数据集收集自某加油站升级改造期间（21 天）的完整录像，共 5 个摄像头对应 5 个不同场景，标注 10 种标签。一共包含了11319张图片，图片大小均为1920*1088。
 
-MJCSD provede the dataset used for automatic monitoring of construction site safety in real production environments. The data set is collected from the video during the  renovation of a gas station (21 days). A total of 5 cameras correspond to 5 different scenes, and 10 kinds of labels are marked. A total of 11319 pictures are included, and the picture size is 1920*1088.
+MJCSD provides the dataset used for automatic monitoring of construction site safety in real production environments. The data set is collected from the Security camera during the  renovation of a gas station (21 days). A total of 5 cameras correspond to 5 different scenes, and 10 kinds of labels are marked. A total of 11319 pictures are included, and the picture size is 1920*1088.
 
 |  NO.   | 中文标签  | Label  |
 |  ----  | ----  | ----  |
