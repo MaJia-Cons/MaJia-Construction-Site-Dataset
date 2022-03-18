@@ -28,3 +28,10 @@ MJCSD provides the dataset used for automatic monitoring of construction site sa
 密码/Password: mjsx
 
 谷歌网盘/GoogleDrive： https://drive.google.com/file/d/1CRiX5rQSIcSIIsdsqp5aN12JRAfX1FhE/view?usp=sharing
+
+
+
+## 引用/Citation
+若做科研使用，请注明数据来源
+
+Please cite the source in your publications if it helps your research.
