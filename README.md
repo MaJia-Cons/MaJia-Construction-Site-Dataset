@@ -34,4 +34,4 @@ MJCSD provides the dataset used for automatic monitoring of construction site sa
 ## 引用/Citation
 若做科研使用，请注明数据来源
 
-Please cite the source in your publications if it helps your research.
+If you use this dataset in your research, please kindly cite our work
