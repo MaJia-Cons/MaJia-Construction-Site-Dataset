@@ -23,11 +23,11 @@ MJCSD provides the dataset used for automatic monitoring of construction site sa
 
 
 ## 数据集下载/DATASET DOWNLOAD
-百度云/BaiduDrive:  https://pan.baidu.com/s/1X7qk7IqOO6MdjveFZn5tag?
+百度云/BaiduDrive:  https://pan.baidu.com/s/1R_UO3C4jS3oBaZVyqdVB2w?
 
 密码/Password: mjsx
 
-谷歌网盘/GoogleDrive： https://drive.google.com/file/d/1CRiX5rQSIcSIIsdsqp5aN12JRAfX1FhE/view?usp=sharing
+谷歌网盘/GoogleDrive： 
 
 
 
